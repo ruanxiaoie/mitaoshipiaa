@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruanxiaoie.github.io/mitaoshipiaa/sitemap.xml
